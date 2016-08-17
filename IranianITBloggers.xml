@@ -121,6 +121,7 @@
       <outline text="Dalbablog" title="Dalbablog" type="rss" xmlUrl="http://dalbablog.wordpress.com/feed/" htmlUrl="http://dalbablog.wordpress.com/feed/"/>
       <outline text="DebugFa" title="DebugFa" type="rss" xmlUrl="http://debugfa.blogfa.com/rss" htmlUrl="http://debugfa.blogfa.com/"/>
       <outline text="Dev Frame" title="Dev Frame" type="rss" xmlUrl="http://amirkarimi.github.io/feed.xml" htmlUrl="http://amirkarimi.github.io/"/>
+      <outline text="DEV Sharp مرجعی برای توسعه دهندگان" title="DEV Sharp مرجعی برای توسعه دهندگان" type="rss" xmlUrl="http://devsharp.ir/feed/" htmlUrl="http://devsharp.ir/"/>
       <outline text="Dev World" title="Dev World" type="rss" xmlUrl="http://dnpars.ir/blog/?feed=rss2" htmlUrl="http://dnpars.ir/blog"/>
       <outline text="Develop Notes" title="Develop Notes" type="rss" xmlUrl="http://developernotes.blogfa.com/rss" htmlUrl="http://developernotes.blogfa.com/"/>
       <outline text="Developers" title="Developers" type="rss" xmlUrl="http://namnik-developer.blogspot.com/feeds/posts/default" htmlUrl="http://namnik-developer.blogspot.com/feeds/posts/default"/>
@@ -170,8 +171,8 @@
       <outline text="Geographic information system" title="Geographic information system" type="rss" xmlUrl="http://gis.8020.ir/?feed=rss2" htmlUrl="http://gis.8020.ir/?feed=rss2"/>
       <outline text="Gnu Tips" title="Gnu Tips" type="rss" xmlUrl="http://gnutips.com/feed/" htmlUrl="http://gnutips.com/"/>
       <outline text="GNUIran.org" title="GNUIran.org" type="rss" xmlUrl="http://www.gnuiran.org/backend.php" htmlUrl="http://www.gnuiran.org/"/>
-      <outline text="Goto CSharp Programming" title="Goto CSharp Programming" type="rss" xmlUrl="http://go2cs.blogspot.com/feeds/posts/default" htmlUrl="http://go2cs.blogspot.com/"/>
       <outline text="Goto CSharp Programming" title="Goto CSharp Programming" type="rss" xmlUrl="http://blog.cheit.net/feeds/posts/default" htmlUrl="http://blog.cheit.net/"/>
+      <outline text="Goto CSharp Programming" title="Goto CSharp Programming" type="rss" xmlUrl="http://go2cs.blogspot.com/feeds/posts/default" htmlUrl="http://go2cs.blogspot.com/"/>
       <outline text="h4x0r&amp;#039;s blog" title="h4x0r&amp;#039;s blog" type="rss" xmlUrl="http://infh4x0r.wordpress.com/feed/" htmlUrl="http://infh4x0r.wordpress.com/feed/"/>
       <outline text="Hadi Hariri's Blog" title="Hadi Hariri's Blog" type="rss" xmlUrl="http://feeds2.feedburner.com/hadihariri" htmlUrl="http://feeds2.feedburner.com/hadihariri"/>
       <outline text="Hadjloo's Daily Notes" title="Hadjloo's Daily Notes" type="rss" xmlUrl="http://feeds2.feedburner.com/HajlooDaily" htmlUrl="http://nasser.hadjloo.ir/"/>
@@ -217,8 +218,8 @@
       <outline text="IT Notes" title="IT Notes" type="rss" xmlUrl="http://miladkdz.ariler.net/syndication.axd?format=rss" htmlUrl="http://miladkdz.ariler.net/syndication.axd?format=rss"/>
       <outline text="IT Notes" title="IT Notes" type="rss" xmlUrl="http://www.miladkdz.com/syndication.axd" htmlUrl="http://www.miladkdz.com/syndication.axd"/>
       <outline text="it teach" title="it teach" type="rss" xmlUrl="http://www.itteach.ir/feed/" htmlUrl="http://www.itteach.ir"/>
-      <outline text="IT Trick" title="IT Trick" type="rss" xmlUrl="http://www.ittrick.com/feeds/posts/default" htmlUrl="http://www.ittrick.com/"/>
       <outline text="IT Trick" title="IT Trick" type="rss" xmlUrl="http://ittrick.com/syndication.axd" htmlUrl="http://www.ittrick.com/"/>
+      <outline text="IT Trick" title="IT Trick" type="rss" xmlUrl="http://www.ittrick.com/feeds/posts/default" htmlUrl="http://www.ittrick.com/"/>
       <outline text="ITiran v2.0" title="ITiran v2.0" type="rss" xmlUrl="http://www.itiran.net/atom.xml" htmlUrl="http://itiran.net/"/>
       <outline text="ITTutorial مرجعی برای طراحان وب سایت" title="ITTutorial مرجعی برای طراحان وب سایت" type="rss" xmlUrl="http://feeds2.feedburner.com/ittutorial/ttBE" htmlUrl="http://www.ittutorial.ir/"/>
       <outline text="Java, write once, run away!" title="Java, write once, run away!" type="rss" xmlUrl="http://shervinasgari.blogspot.com/feeds/posts/default" htmlUrl="http://shervinasgari.blogspot.com/"/>
@@ -234,8 +235,8 @@
       <outline text="Knowledge Of MS SQL Server" title="Knowledge Of MS SQL Server" type="rss" xmlUrl="http://dbeducation.blog.ir/rss/" htmlUrl="http://dbeducation.blog.ir/"/>
       <outline text="Komeil Bahmanpour" title="Komeil Bahmanpour" type="rss" xmlUrl="http://feeds.feedburner.com/komeil" htmlUrl="http://blog.komeil.com/"/>
       <outline text="KP-Tools" title="KP-Tools" type="rss" xmlUrl="http://kptools.wordpress.com/feed/" htmlUrl="http://kptools.wordpress.com/"/>
-      <outline text="Land of Algorithms - الگوریتمستان" title="Land of Algorithms - الگوریتمستان" type="rss" xmlUrl="http://www.labod.ir/algorithms/rss.aspx" htmlUrl="http://www.labod.ir/algorithms/rss.aspx"/>
       <outline text="Land of Algorithms - الگوریتمستان" title="Land of Algorithms - الگوریتمستان" type="rss" xmlUrl="http://www.algorithmha.ir/rss.aspx" htmlUrl="http://www.algorithmha.ir/"/>
+      <outline text="Land of Algorithms - الگوریتمستان" title="Land of Algorithms - الگوریتمستان" type="rss" xmlUrl="http://www.labod.ir/algorithms/rss.aspx" htmlUrl="http://www.labod.ir/algorithms/rss.aspx"/>
       <outline text="Latest Posts - Kamranicus" title="Latest Posts - Kamranicus" type="rss" xmlUrl="http://feeds.feedburner.com/Kamranicus" htmlUrl="http://kamranicus.com/"/>
       <outline text="lazygeek" title="lazygeek" type="rss" xmlUrl="http://lazygeek.ir/?feed=rss2" htmlUrl="http://lazygeek.ir/"/>
       <outline text="LINQ.irTut" title="LINQ.irTut" type="rss" xmlUrl="http://www.linq.irtut.com/feeds/posts/default" htmlUrl="http://www.linq.irtut.com/feeds/posts/default"/>
@@ -372,6 +373,7 @@
       <outline text="projectme's title" title="projectme's title" type="rss" xmlUrl="http://projectme.persianblog.ir/rss.xml" htmlUrl="http://projectme.persianblog.ir/"/>
       <outline text="PSD.IrTuts آموزش و دانلود فایل های فتوشاپ" title="PSD.IrTuts آموزش و دانلود فایل های فتوشاپ" type="rss" xmlUrl="http://psd.irtuts.com/feed" htmlUrl="http://web.irtuts.com/"/>
       <outline text="PSP center" title="PSP center" type="rss" xmlUrl="http://feeds.feedburner.com/PspCenter" htmlUrl="http://pspcenter.ir/"/>
+      <outline text="Qt Developer Blog" title="Qt Developer Blog" type="rss" xmlUrl="http://qtips.ir/feed/" htmlUrl="http://qtips.ir/"/>
       <outline text="RADACAD" title="RADACAD" type="rss" xmlUrl="http://www.radacad.com/feed" htmlUrl="http://www.radacad.com/"/>
       <outline text="RahmatRezaei.ToString()" title="RahmatRezaei.ToString()" type="rss" xmlUrl="http://www.tostring.blogfa.com/rss.aspx" htmlUrl="http://tostring.blogfa.com/"/>
       <outline text="Recent posts - Mehdi Golchin's blog" title="Recent posts - Mehdi Golchin's blog" type="rss" xmlUrl="http://mgolchin.net/feeds" htmlUrl="http://mgolchin.net/feeds"/>
@@ -457,8 +459,8 @@
       <outline text="Vahid Hallaji » وبلاگ" title="Vahid Hallaji » وبلاگ" type="rss" xmlUrl="http://hallaji.com/fa/blog/feed/" htmlUrl="http://hallaji.com/fa/"/>
       <outline text="Vahid's shared items in Google Reader" title="Vahid's shared items in Google Reader" type="rss" xmlUrl="http://feeds2.feedburner.com/VahidsSharedItemsInGoogleReader" htmlUrl="http://www.dotnettips.info/"/>
       <outline text="VCL Developer" title="VCL Developer" type="rss" xmlUrl="http://vcldeveloper.com/feed/" htmlUrl="http://vcldeveloper.com/feed/"/>
-      <outline text="Virtual Security" title="Virtual Security" type="rss" xmlUrl="http://0x4d31.blogspot.com/feeds/posts/default" htmlUrl="http://virtsecurity.blogspot.com/"/>
       <outline text="Virtual Security" title="Virtual Security" type="rss" xmlUrl="http://virtsecurity.blogspot.com/feeds/posts/default" htmlUrl="http://virtsecurity.blogspot.com/"/>
+      <outline text="Virtual Security" title="Virtual Security" type="rss" xmlUrl="http://0x4d31.blogspot.com/feeds/posts/default" htmlUrl="http://virtsecurity.blogspot.com/"/>
       <outline text="visual-studio-net.tk" title="visual-studio-net.tk" type="rss" xmlUrl="http://www.vb-06.blogfa.com/rss.aspx" htmlUrl="http://vb-06.blogfa.com/"/>
       <outline text="vizviz" title="vizviz" type="rss" xmlUrl="http://feeds.feedburner.com/vizviz" htmlUrl="http://vizviz.net/"/>
       <outline text="W2K+IR" title="W2K+IR" type="rss" xmlUrl="http://w2kir.wordpress.com/feed/" htmlUrl="http://w2kir.wordpress.com/"/>
@@ -471,8 +473,8 @@
       <outline text="Weblogina" title="Weblogina" type="rss" xmlUrl="http://feeds2.feedburner.com/weblogina" htmlUrl="http://weblogina.com/"/>
       <outline text="Webna News" title="Webna News" type="rss" xmlUrl="http://feeds2.feedburner.com/webna" htmlUrl="http://webna.ir/"/>
       <outline text="WebNote.ir" title="WebNote.ir" type="rss" xmlUrl="http://www.webnote.ir/syndication.axd" htmlUrl="http://www.webnote.ir/syndication.axd"/>
-      <outline text="Webover" title="Webover" type="rss" xmlUrl="http://www.webover.ir/?feed=rss2" htmlUrl="http://www.webover.ir/"/>
       <outline text="Webover" title="Webover" type="rss" xmlUrl="http://www.webover.ir/feed/" htmlUrl="http://www.webover.ir/"/>
+      <outline text="Webover" title="Webover" type="rss" xmlUrl="http://www.webover.ir/?feed=rss2" htmlUrl="http://www.webover.ir/"/>
       <outline text="webprog.loxblog.com" title="webprog.loxblog.com" type="rss" xmlUrl="http://webprog.loxblog.ir/rss.php" htmlUrl="http://webprog.loxblog.com/"/>
       <outline text="webtarget.ir" title="webtarget.ir" type="rss" xmlUrl="http://feeds.webtarget.ir/webtargetfeeds" htmlUrl="http://www.webtarget.ir/blog"/>
       <outline text="webtarget.ir | طراحی هدفمند وب سایت" title="webtarget.ir | طراحی هدفمند وب سایت" type="rss" xmlUrl="http://feeds2.feedburner.com/webtargetfeeds" htmlUrl="http://www.webtarget.ir/blog"/>
@@ -546,6 +548,7 @@
       <outline text="آموزش پردازش تصویر با OpenCV و MATLAB" title="آموزش پردازش تصویر با OpenCV و MATLAB" type="rss" xmlUrl="http://imageproccessing.persianblog.ir/rss.xml" htmlUrl="http://imageproccessing.persianblog.ir/rss.xml"/>
       <outline text="آموزش کاربردی کامپیوتر و برنامه نویسی" title="آموزش کاربردی کامپیوتر و برنامه نویسی" type="rss" xmlUrl="http://jafaronline.blogfa.com/rss.aspx" htmlUrl="http://jafaronline.blogfa.com/"/>
       <outline text="آموزش کامل زبان برنامه نویسی سی شارپ و ASP.net" title="آموزش کامل زبان برنامه نویسی سی شارپ و ASP.net" type="rss" xmlUrl="http://csharp2012.gigfa.com/?feed=rss2" htmlUrl="http://csharp2012.gigfa.com/"/>
+      <outline text="آوا دیزاینر" title="آوا دیزاینر" type="rss" xmlUrl="http://www.avadesigner.com/feed/" htmlUrl="http://www.avadesigner.com/"/>
       <outline text="آي تي نوشت" title="آي تي نوشت" type="rss" xmlUrl="http://itnevesht.wordpress.com/feed/" htmlUrl="http://itnevesht.wordpress.com/"/>
       <outline text="آيين نامه ها و فراخوانها" title="آيين نامه ها و فراخوانها" type="rss" xmlUrl="http://www.ictna.ir/summon/index.xml" htmlUrl="http://www.ictna.ir/summon/"/>
       <outline text="آپارنت" title="آپارنت" type="rss" xmlUrl="http://aparnet.ir/feed" htmlUrl="http://aparnet.ir/"/>
@@ -630,14 +633,14 @@
       <outline text="بایت گیت" title="بایت گیت" type="rss" xmlUrl="http://bytegate.ir/feed/" htmlUrl="http://bytegate.ir/"/>
       <outline text="بررسي سخت افزار" title="بررسي سخت افزار" type="rss" xmlUrl="http://feeds.feedburner.com/HotOverclock_Reviews" htmlUrl="http://feeds.feedburner.com/HotOverclock_Reviews"/>
       <outline text="برنامه نويسان ايراني" title="برنامه نويسان ايراني" type="rss" xmlUrl="http://persiandevelopers.blogfa.com/rss.aspx" htmlUrl="http://persiandevelopers.blogfa.com/"/>
-      <outline text="برنامه نویس" title="برنامه نویس" type="rss" xmlUrl="http://barname-nevis.com/feed/" htmlUrl="http://barname-nevis.com/"/>
       <outline text="برنامه نویس" title="برنامه نویس" type="rss" xmlUrl="http://developerpro.mihanblog.com/post/rss/" htmlUrl="http://developerpro.mihanblog.com/"/>
       <outline text="برنامه نویس" title="برنامه نویس" type="rss" xmlUrl="http://maxmin.blog.ir/rss/" htmlUrl="http://maxmin.blog.ir/"/>
+      <outline text="برنامه نویس" title="برنامه نویس" type="rss" xmlUrl="http://barname-nevis.com/feed/" htmlUrl="http://barname-nevis.com/"/>
       <outline text="برنامه نویس آزاد! » وبلاگ" title="برنامه نویس آزاد! » وبلاگ" type="rss" xmlUrl="http://bojbaj.ir/blog/feed/" htmlUrl="http://bojbaj.ir/"/>
       <outline text="برنامه نویس ارشد" title="برنامه نویس ارشد" type="rss" xmlUrl="http://seniordeveloper.ir/feed/" htmlUrl="http://miladsoft.net/"/>
       <outline text="برنامه نویسان مشهد" title="برنامه نویسان مشهد" type="rss" xmlUrl="http://acdev.ir/blog/?feed=rss2" htmlUrl="http://acdev.ir/blog"/>
-      <outline text="برنامه نویسان نوین پندار" title="برنامه نویسان نوین پندار" type="rss" xmlUrl="http://8np.ir/feed/" htmlUrl="http://8np.ir/"/>
       <outline text="برنامه نویسان نوین پندار" title="برنامه نویسان نوین پندار" type="rss" xmlUrl="http://feeds.feedburner.com/8np/JHQS" htmlUrl="http://8np.ir/"/>
+      <outline text="برنامه نویسان نوین پندار" title="برنامه نویسان نوین پندار" type="rss" xmlUrl="http://8np.ir/feed/" htmlUrl="http://8np.ir/"/>
       <outline text="برنامه نویسی" title="برنامه نویسی" type="rss" xmlUrl="http://barnamenevisi.info/feed/" htmlUrl="http://barnamenevisi.info/"/>
       <outline text="برنامه نویسی  C++ Programming" title="برنامه نویسی  C++ Programming" type="rss" xmlUrl="http://sstarsprograms.blogfa.com/rss.aspx" htmlUrl="http://sstarsprograms.blogfa.com/"/>
       <outline text="برنامه نویسی - طراحي سايت" title="برنامه نویسی - طراحي سايت" type="rss" xmlUrl="http://newday.blogfa.com/rss.aspx" htmlUrl="http://newday.blogfa.com/"/>
@@ -751,6 +754,7 @@
       <outline text="دانلود رایگان فیلم های آموزشی کامپیوتر" title="دانلود رایگان فیلم های آموزشی کامپیوتر" type="rss" xmlUrl="http://p30learning.com/feed/" htmlUrl="http://p30learning.com/"/>
       <outline text="دانلود فیلم آموزشی" title="دانلود فیلم آموزشی" type="rss" xmlUrl="http://p30download.com/fa/video/category/educational/rss.xml" htmlUrl="http://p30download.com/"/>
       <outline text="دانلود و معرفی نرم افزارهای لینوکس" title="دانلود و معرفی نرم افزارهای لینوکس" type="rss" xmlUrl="http://getdebpersian.wordpress.com/feed/" htmlUrl="http://getdebpersian.wordpress.com/"/>
+      <outline text="دانلود پروژه" title="دانلود پروژه" type="rss" xmlUrl="http://pfrproject.ir/feed" htmlUrl="http://pfrproject.ir/"/>
       <outline text="دانلود کتاب" title="دانلود کتاب" type="rss" xmlUrl="http://www.aryabooks.com/backend.php" htmlUrl="http://www.aryapdf.com/"/>
       <outline text="دانلود کتاب,کتاب,کتابخانه مجازی,دانلود کتاب الكترونيكي,دانلود کتابهای دیجیتال,دانلود ايبوك,دانلود كتاب رایگان,دانلودکتاب موبایل مجانی,PDF" title="دانلود کتاب,کتاب,کتابخانه مجازی,دانلود کتاب الكترونيكي,دانلود کتابهای دیجیتال,دانلود ايبوك,دانلود كتاب رایگان,دانلودکتاب موبایل مجانی,PDF" type="rss" xmlUrl="http://www.irebooks.com/backend.php" htmlUrl="http://www.irebooks.com/"/>
       <outline text="دانلودمستقیم فیلم آموزشی،کتاب،جزوه،مقاله" title="دانلودمستقیم فیلم آموزشی،کتاب،جزوه،مقاله" type="rss" xmlUrl="http://unicomp.blogfa.com/rss.aspx" htmlUrl="http://unicomp.blogfa.com/"/>
@@ -761,8 +765,8 @@
       <outline text="دروس آموخته" title="دروس آموخته" type="rss" xmlUrl="http://lessons-learned.persianblog.ir/rss.xml" htmlUrl="http://lessons-learned.persianblog.ir/"/>
       <outline text="دروپال لیون - دروپال فارسی,طراحی سایت با ماٰژول ها و قالب های دروپال" title="دروپال لیون - دروپال فارسی,طراحی سایت با ماٰژول ها و قالب های دروپال" type="rss" xmlUrl="http://www.drupalion.com/rss.xml" htmlUrl="http://www.drupalion.com/"/>
       <outline text="دروپالِ آسان | نوشته های امیرحسین مرجانی - I believe that Drupal is Easy, and you..? ;)" title="دروپالِ آسان | نوشته های امیرحسین مرجانی - I believe that Drupal is Easy, and you..? ;)" type="rss" xmlUrl="http://www.drupaleasy.ir/rss.xml" htmlUrl="http://www.drupaleasy.ir/frontpage"/>
-      <outline text="دست نوشته نیما" title="دست نوشته نیما" type="rss" xmlUrl="http://blog.nimaarabi.com/feeds/posts/default?alt=rss" htmlUrl="http://blog.nimaarabi.com/"/>
       <outline text="دست نوشته نیما" title="دست نوشته نیما" type="rss" xmlUrl="http://blog.nimaa.ir/feeds/posts/default?alt=rss" htmlUrl="http://blog.nimaa.ir/feeds/posts/default?alt=rss"/>
+      <outline text="دست نوشته نیما" title="دست نوشته نیما" type="rss" xmlUrl="http://blog.nimaarabi.com/feeds/posts/default?alt=rss" htmlUrl="http://blog.nimaarabi.com/"/>
       <outline text="دست نوشته ها" title="دست نوشته ها" type="rss" xmlUrl="http://pctimer.blogspot.com/feeds/posts/default" htmlUrl="http://pctimer.blogspot.com/feeds/posts/default"/>
       <outline text="دست نوشته های آی تی" title="دست نوشته های آی تی" type="rss" xmlUrl="http://it-world.021kids.net/feed/" htmlUrl="http://it-world.021kids.net/feed/"/>
       <outline text="دست نوشته های سعید فراهانی - طراح وب و برنامه نویس پی اچ پی (PHP) / پرل (Perl)" title="دست نوشته های سعید فراهانی - طراح وب و برنامه نویس پی اچ پی (PHP) / پرل (Perl)" type="rss" xmlUrl="http://www.slashdot.ir/feed/" htmlUrl="http://www.slashdot.ir/feed/"/>
@@ -807,8 +811,8 @@
       <outline text="راديکال 2" title="راديکال 2" type="rss" xmlUrl="http://feeds.feedburner.com/radikal2" htmlUrl="http://feeds.feedburner.com/radikal2"/>
       <outline text="رادکام" title="رادکام" type="rss" xmlUrl="http://radcom.ir/weblog/hamid/Rss.aspx" htmlUrl="http://radcom.ir/weblog/hamid/Rss.aspx"/>
       <outline text="رامین احمدی: مطالب" title="رامین احمدی: مطالب" type="rss" xmlUrl="http://www.sharepointsolutions.ir/blogs/ramin/_layouts/listfeed.aspx?List={A0504BD8-8DB0-4B5F-A938-9B78F47A843D}" htmlUrl="http://www.sharepointsolutions.ir/blogs/ramin/_layouts/listfeed.aspx?List={A0504BD8-8DB0-4B5F-A938-9B78F47A843D}"/>
-      <outline text="راه کارهای سازمانی" title="راه کارهای سازمانی" type="rss" xmlUrl="http://enterprisesolutions.blogfa.com/rss" htmlUrl="http://enterprisesolutions.blogfa.com/"/>
       <outline text="راه کارهای سازمانی" title="راه کارهای سازمانی" type="rss" xmlUrl="http://enterprisesolutions.blogfa.com/rss.aspx" htmlUrl="http://enterprisesolutions.blogfa.com/"/>
+      <outline text="راه کارهای سازمانی" title="راه کارهای سازمانی" type="rss" xmlUrl="http://enterprisesolutions.blogfa.com/rss" htmlUrl="http://enterprisesolutions.blogfa.com/"/>
       <outline text="راهرو وب" title="راهرو وب" type="rss" xmlUrl="http://www.w3schoolsir.com/atom.xml?nocache" htmlUrl="http://www.w3schoolsir.com/atom.xml?nocache"/>
       <outline text="راهنمای پژوهش" title="راهنمای پژوهش" type="rss" xmlUrl="http://www.semaho.ir/feeds/posts/default" htmlUrl="http://www.semaho.ir/"/>
       <outline text="راهکارهای مؤثر IT" title="راهکارهای مؤثر IT" type="rss" xmlUrl="http://esmram.com/?feed=rss2" htmlUrl="http://esmram.com"/>
@@ -866,15 +870,15 @@
       <outline text="سرخه تَله" title="سرخه تَله" type="rss" xmlUrl="http://www.farsigeek.com/?feed=rss2" htmlUrl="http://www.farsigeek.com/"/>
       <outline text="سرریز‌‌های ذهن من" title="سرریز‌‌های ذهن من" type="rss" xmlUrl="http://www.mnzadeh.com/feed/" htmlUrl="http://www.mnzadeh.com/"/>
       <outline text="سرکش" title="سرکش" type="rss" xmlUrl="http://sarkeshtype.ir/atom.xml" htmlUrl="http://sarkeshtype.ir/"/>
-      <outline text="سماموس" title="سماموس" type="rss" xmlUrl="http://www.somamos.blogfa.com/rss.aspx" htmlUrl="http://somamos.blogfa.com/"/>
       <outline text="سماموس" title="سماموس" type="rss" xmlUrl="http://www.somamos-co.ir/?feed=rss2" htmlUrl="http://www.somamos-co.ir/"/>
+      <outline text="سماموس" title="سماموس" type="rss" xmlUrl="http://www.somamos.blogfa.com/rss.aspx" htmlUrl="http://somamos.blogfa.com/"/>
       <outline text="سمینار های فناوری اطلاعات" title="سمینار های فناوری اطلاعات" type="rss" xmlUrl="http://feeds2.feedburner.com/itseminars" htmlUrl="http://it-seminars.ir/"/>
       <outline text="سوبارو" title="سوبارو" type="rss" xmlUrl="http://subaru-pc1.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://subaru-pc1.blogspot.com/"/>
       <outline text="سورس گذر بزرگترین سایت دانلود سورس رایگان برنامه نویسی" title="سورس گذر بزرگترین سایت دانلود سورس رایگان برنامه نویسی" type="rss" xmlUrl="http://www.sourcegozar.com/feed" htmlUrl="http://www.sourcegozar.com/"/>
       <outline text="سياوش" title="سياوش" type="rss" xmlUrl="http://www.syavash.com/portal/blog-rss-fa" htmlUrl="http://www.syavash.com/"/>
       <outline text="سيد امير موسوي" title="سيد امير موسوي" type="rss" xmlUrl="http://amirmousavi.ir/?feed=rss2" htmlUrl="http://amirmousavi.ir/?feed=rss2"/>
-      <outline text="سيسکو به پارسی" title="سيسکو به پارسی" type="rss" xmlUrl="http://shzandi.wordpress.com/feed/" htmlUrl="http://shzandi.wordpress.com/"/>
       <outline text="سيسکو به پارسی" title="سيسکو به پارسی" type="rss" xmlUrl="http://persian.shafagh.com/feed" htmlUrl="http://persian.shafagh.com/feed"/>
+      <outline text="سيسکو به پارسی" title="سيسکو به پارسی" type="rss" xmlUrl="http://shzandi.wordpress.com/feed/" htmlUrl="http://shzandi.wordpress.com/"/>
       <outline text="سيصد و شصت نکته (کاربردی)  در تفکر" title="سيصد و شصت نکته (کاربردی)  در تفکر" type="rss" xmlUrl="http://360thinkingtips.blogspot.com/feeds/posts/default" htmlUrl="http://360thinkingtips.blogspot.com/"/>
       <outline text="سُماموس" title="سُماموس" type="rss" xmlUrl="http://www.bibalan.com/?feed=rss2" htmlUrl="http://www.bibalan.com/"/>
       <outline text="سیاره لینوکس فارسی" title="سیاره لینوکس فارسی" type="rss" xmlUrl="http://feeds.feedburner.com/linuxvaman-planet" htmlUrl="http://planet.linuxvaman.ir/"/>
@@ -896,13 +900,14 @@
       <outline text="شبکه های کامپیوتری" title="شبکه های کامپیوتری" type="rss" xmlUrl="http://feeds2.feedburner.com/network1" htmlUrl="http://network.persianblog.ir/"/>
       <outline text="شماهم می توانید برنامه نویس سی شارپ شوید" title="شماهم می توانید برنامه نویس سی شارپ شوید" type="rss" xmlUrl="http://csharp2012.blogfa.com/rss" htmlUrl="http://csharp2012.blogfa.com/"/>
       <outline text="شهر سخت افزار" title="شهر سخت افزار" type="rss" xmlUrl="http://www.shahrsakhtafzar.com/fa/index.php?option=com_ninjarsssyndicator&amp;feed_id=1&amp;format=raw" htmlUrl="http://www.shahrsakhtafzar.com/fa/"/>
+      <outline text="صادقی‌زاده ،آرش" title="صادقی‌زاده ،آرش" type="rss" xmlUrl="https://arashsadeghizadeh.me/?feed=rss2" htmlUrl="https://arashsadeghizadeh.me/"/>
       <outline text="صدای فناوری اطلاعات ایران" title="صدای فناوری اطلاعات ایران" type="rss" xmlUrl="http://it-voice.ir/feed/" htmlUrl="http://it-voice.ir/"/>
       <outline text="صديف جناني: نوشته ها" title="صديف جناني: نوشته ها" type="rss" xmlUrl="http://www.sharepointsolutions.ir/blogs/janani/_layouts/listfeed.aspx?list={e274d92a-7211-4712-bf30-7ade82b3f67a}" htmlUrl="http://www.sharepointsolutions.ir/blogs/janani/Lists/Posts/AllPosts.aspx"/>
+      <outline text="صفحه اصلی" title="صفحه اصلی" type="rss" xmlUrl="http://weapi.org/fa/?format=feed&amp;type=rss" htmlUrl="http://weapi.org/fa/?format=feed&amp;type=rss"/>
+      <outline text="صفحه اصلی" title="صفحه اصلی" type="rss" xmlUrl="http://www.cyberlone.com/main-page?format=feed&amp;type=rss" htmlUrl="http://www.cyberlone.com/main-page"/>
       <outline text="صفحه اصلی" title="صفحه اصلی" type="rss" xmlUrl="http://www.weapi.co.cc/index.php/fa?format=feed&amp;type=rss" htmlUrl="http://www.weapi.co.cc/index.php/fa?format=feed&amp;type=rss"/>
       <outline text="صفحه اصلی" title="صفحه اصلی" type="rss" xmlUrl="http://afamag.ir/index.php?format=feed&amp;type=rss" htmlUrl="http://afamag.ir/index.php/component/content/frontpage.html"/>
       <outline text="صفحه اصلی" title="صفحه اصلی" type="rss" xmlUrl="http://hormozganvb.ir/index.php?format=feed&amp;type=rss" htmlUrl="http://hormozganvb.ir/index.php?format=feed&amp;type=rss"/>
-      <outline text="صفحه اصلی" title="صفحه اصلی" type="rss" xmlUrl="http://weapi.org/fa/?format=feed&amp;type=rss" htmlUrl="http://weapi.org/fa/?format=feed&amp;type=rss"/>
-      <outline text="صفحه اصلی" title="صفحه اصلی" type="rss" xmlUrl="http://www.cyberlone.com/main-page?format=feed&amp;type=rss" htmlUrl="http://www.cyberlone.com/main-page"/>
       <outline text="صفحه اول" title="صفحه اول" type="rss" xmlUrl="http://nashrit.com/index.php?format=feed&amp;type=rss" htmlUrl="http://nashrit.com/index.php/component/content/?view=featured"/>
       <outline text="صفحه اول" title="صفحه اول" type="rss" xmlUrl="http://www.yazdinezhad.com/index.php?format=feed&amp;type=rss" htmlUrl="http://www.yazdinezhad.com/index.php/component/content/?view=featured"/>
       <outline text="صفحه خانگی" title="صفحه خانگی" type="rss" xmlUrl="http://farsiocr.ir/index.php?format=feed&amp;type=rss" htmlUrl="http://farsiocr.ir/component/content/frontpage"/>
@@ -950,8 +955,8 @@
       <outline text="فرید بکران" title="فرید بکران" type="rss" xmlUrl="http://f-bekran.ir/blog/feed/" htmlUrl="http://f-bekran.ir/blog"/>
       <outline text="فن آوری اطلاعات و ارتباطات و توسعه نرم افزار" title="فن آوری اطلاعات و ارتباطات و توسعه نرم افزار" type="rss" xmlUrl="http://tsa-co.ir/blogs/dev/?feed=rss2" htmlUrl="http://tsa-co.ir/blogs/dev/?feed=rss2"/>
       <outline text="فناوري اطلاعات" title="فناوري اطلاعات" type="rss" xmlUrl="http://itn88.blogfa.com/rss.aspx" htmlUrl="http://itn88.blogfa.com/"/>
-      <outline text="فناوری اطلاعات" title="فناوری اطلاعات" type="rss" xmlUrl="http://mohsenalavi.blog.ir/rss/" htmlUrl="http://mohsenalavi.blog.ir/"/>
       <outline text="فناوری اطلاعات" title="فناوری اطلاعات" type="rss" xmlUrl="http://it-rasht.blogfa.com/rss.aspx" htmlUrl="http://it-rasht.blogfa.com/"/>
+      <outline text="فناوری اطلاعات" title="فناوری اطلاعات" type="rss" xmlUrl="http://mohsenalavi.blog.ir/rss/" htmlUrl="http://mohsenalavi.blog.ir/"/>
       <outline text="فناوری اطلاعات و برنامه نویسی" title="فناوری اطلاعات و برنامه نویسی" type="rss" xmlUrl="http://hamidonline.blogsky.com/rss" htmlUrl="http://hamidonline.blogsky.com/"/>
       <outline text="فناوری به وقت تبریز" title="فناوری به وقت تبریز" type="rss" xmlUrl="http://tabriz.io/feed/" htmlUrl="http://tabriz.io/"/>
       <outline text="فید نردبان" title="فید نردبان" type="rss" xmlUrl="http://feeds.nardebaan.ir/nardebaan" htmlUrl="http://nardebaan.ir/feed"/>
@@ -993,6 +998,7 @@
       <outline text="محمد رضا محمودی" title="محمد رضا محمودی" type="rss" xmlUrl="http://rezamahmoudi.ir/feed.xml" htmlUrl="http://rezamahmoudi.ir/"/>
       <outline text="محمد فلاحت" title="محمد فلاحت" type="rss" xmlUrl="http://mrfalahat.ir/?feed=rss2" htmlUrl="http://mrfalahat.ir/"/>
       <outline text="محمد محسن مودت - Mohammad Mohsen Mavaddat" title="محمد محسن مودت - Mohammad Mohsen Mavaddat" type="rss" xmlUrl="http://m-mavaddat.ir/post/rss/" htmlUrl="http://m-mavaddat.mihanblog.com/"/>
+      <outline text="محمدامین ساقی زاده" title="محمدامین ساقی زاده" type="rss" xmlUrl="http://www.aminsaghi.ir/?feed=rss2&amp;lang=fa" htmlUrl="http://www.aminsaghi.ir/"/>
       <outline text="محمدرضا حدادي" title="محمدرضا حدادي" type="rss" xmlUrl="http://haddadi.baridsoft.ir/?feed=rss2" htmlUrl="http://www.baridsoft.ir/haddadi"/>
       <outline text="محمدرضا نجفی پور" title="محمدرضا نجفی پور" type="rss" xmlUrl="http://mrnajafipour.gigfa.com/?feed=rss2" htmlUrl="http://mrnajafipour.gigfa.com/"/>
       <outline text="محمود بشاش - بازاریابی، فروش و تجارت الکترونیک" title="محمود بشاش - بازاریابی، فروش و تجارت الکترونیک" type="rss" xmlUrl="http://www.mahmoodbashash.com/feed" htmlUrl="http://www.mahmoodbashash.com/"/>
@@ -1059,8 +1065,8 @@
       <outline text="موزيلا فايرفاکس" title="موزيلا فايرفاکس" type="rss" xmlUrl="http://blog.mozillafirefox.ir/feeds/posts/default" htmlUrl="http://blog.mozillafirefox.ir/"/>
       <outline text="موسسه آموزش عالی پاسارگاد شيراز" title="موسسه آموزش عالی پاسارگاد شيراز" type="rss" xmlUrl="http://shirazpasargad87.blogfa.com/rss.aspx" htmlUrl="http://shirazpasargad87.blogfa.com/"/>
       <outline text="موسسه اسکرام ایران - موسسه اسکرام ایران" title="موسسه اسکرام ایران - موسسه اسکرام ایران" type="rss" xmlUrl="http://scrum.ir/feed/" htmlUrl="http://scrum.ir/"/>
-      <outline text="موفقیت در وب : سایت شخصی رضارحیمی در زمینه کسب موفقیت در وب" title="موفقیت در وب : سایت شخصی رضارحیمی در زمینه کسب موفقیت در وب" type="rss" xmlUrl="http://rtwo.ir/rtworss.aspx" htmlUrl="http://rtwo.ir/rtworss.aspx"/>
       <outline text="موفقیت در وب : سایت شخصی رضارحیمی در زمینه کسب موفقیت در وب" title="موفقیت در وب : سایت شخصی رضارحیمی در زمینه کسب موفقیت در وب" type="rss" xmlUrl="http://feeds2.feedburner.com/rtwo/post" htmlUrl="http://rtwo.ir/"/>
+      <outline text="موفقیت در وب : سایت شخصی رضارحیمی در زمینه کسب موفقیت در وب" title="موفقیت در وب : سایت شخصی رضارحیمی در زمینه کسب موفقیت در وب" type="rss" xmlUrl="http://rtwo.ir/rtworss.aspx" htmlUrl="http://rtwo.ir/rtworss.aspx"/>
       <outline text="مُریلاگ - Morilog" title="مُریلاگ - Morilog" type="rss" xmlUrl="http://feeds.feedburner.com/morilog" htmlUrl="http://morilog.ir/"/>
       <outline text="میلاد ، بدون روتوش" title="میلاد ، بدون روتوش" type="rss" xmlUrl="http://blog.midinwon.ir/?feed=rss2" htmlUrl="http://blog.midinwon.ir/?feed=rss2"/>
       <outline text="میلاد نکوفر" title="میلاد نکوفر" type="rss" xmlUrl="http://feeds.feedburner.com/nekofar" htmlUrl="http://milad.nekofar.com/"/>
@@ -1117,8 +1123,8 @@
       <outline text="همایش ها" title="همایش ها" type="rss" xmlUrl="http://www.ictna.ir/events/index.xml" htmlUrl="http://www.ictna.ir/events/"/>
       <outline text="همفکری" title="همفکری" type="rss" xmlUrl="http://www.hamfekri.com/blog/feed" htmlUrl="http://www.hamfekri.com/blog"/>
       <outline text="همه چیز نویسی" title="همه چیز نویسی" type="rss" xmlUrl="http://blog.behzadian.com/feed/" htmlUrl="http://homayoun.behzadian.com/"/>
-      <outline text="هندونه" title="هندونه" type="rss" xmlUrl="http://hendoneh.mihanblog.com/post/rss/" htmlUrl="http://hendoneh.mihanblog.com/"/>
       <outline text="هندونه" title="هندونه" type="rss" xmlUrl="http://feeds2.feedburner.com/Hendoone" htmlUrl="http://hendoone.wordpress.com/"/>
+      <outline text="هندونه" title="هندونه" type="rss" xmlUrl="http://hendoneh.mihanblog.com/post/rss/" htmlUrl="http://hendoneh.mihanblog.com/"/>
       <outline text="هوش تجاری (Business Intelligence)" title="هوش تجاری (Business Intelligence)" type="rss" xmlUrl="http://learnbi.ir/rss" htmlUrl="http://www.learnbi.ir/"/>
       <outline text="هویت آزاد" title="هویت آزاد" type="rss" xmlUrl="http://feeds.feedburner.com/safetux" htmlUrl="http://safetux.undo.it/"/>
       <outline text="هویت آزاد" title="هویت آزاد" type="rss" xmlUrl="http://safetux.blogspot.com/feeds/posts/default" htmlUrl="http://safetux.blogspot.com/"/>
@@ -1145,10 +1151,11 @@
       <outline text="وب فوکاس - آخرین مقالات برنامه نویسی وب" title="وب فوکاس - آخرین مقالات برنامه نویسی وب" type="rss" xmlUrl="http://feeds2.feedburner.com/WebfocusirProgrammingArticles" htmlUrl="http://webfocus.ir/portal/feed-web-programming.rss.html"/>
       <outline text="وب فوکاس - اخبار فناوری اطلاعات" title="وب فوکاس - اخبار فناوری اطلاعات" type="rss" xmlUrl="http://feeds2.feedburner.com/WebfocusirSiteNews" htmlUrl="http://webfocus.ir/portal/feed.rss.html"/>
       <outline text="وب فوکاس - تئوری ها متدها و روش ها" title="وب فوکاس - تئوری ها متدها و روش ها" type="rss" xmlUrl="http://feeds2.feedburner.com/WebfocusirTipsAndTricksArticles" htmlUrl="http://webfocus.ir/portal/feed-web-articles.rss.html"/>
+      <outline text="وب نشان" title="وب نشان" type="rss" xmlUrl="http://www.webneshan.com/Feed.aspx?Type=RSS" htmlUrl="http://www.webneshan.com/%D9%88%D8%A8-%D9%86%D8%B4%D8%A7%D9%86"/>
       <outline text="وب نوردی" title="وب نوردی" type="rss" xmlUrl="http://webnavardi.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://webnavardi.blogspot.com/"/>
       <outline text="وب نوشت سپیده قیصر" title="وب نوشت سپیده قیصر" type="rss" xmlUrl="http://feed.sgheysar.com/sgheysar" htmlUrl="http://blog.sgheysar.com/"/>
-      <outline text="وب نوشت های مرد مرده" title="وب نوشت های مرد مرده" type="rss" xmlUrl="http://devildarkness.wordpress.com/feed/" htmlUrl="http://devildarkness.wordpress.com/"/>
       <outline text="وب نوشت های مرد مرده" title="وب نوشت های مرد مرده" type="rss" xmlUrl="http://feeds.feedburner.com/devildarkness" htmlUrl="http://blog.deadman.ir/"/>
+      <outline text="وب نوشت های مرد مرده" title="وب نوشت های مرد مرده" type="rss" xmlUrl="http://devildarkness.wordpress.com/feed/" htmlUrl="http://devildarkness.wordpress.com/"/>
       <outline text="وب نوشته های بهروز" title="وب نوشته های بهروز" type="rss" xmlUrl="http://weblog.arshee.ir/feed/" htmlUrl="http://weblog.arshee.ir/feed/"/>
       <outline text="وب نوشته‌های سپیده قیصر" title="وب نوشته‌های سپیده قیصر" type="rss" xmlUrl="http://feeds2.feedburner.com/sgheysar" htmlUrl="http://blog.sgheysar.com/"/>
       <outline text="وب نویس" title="وب نویس" type="rss" xmlUrl="http://feeds2.feedburner.com/webnevis" htmlUrl="http://webnevis.net/"/>
@@ -1351,6 +1358,7 @@
       <outline text="گاه نگاشت های محسن ملایری" title="گاه نگاشت های محسن ملایری" type="rss" xmlUrl="http://feeds.feedburner.com/malayeri/JFZS" htmlUrl="http://blog.malayeri.me/"/>
       <outline text="گاه‌نوشت مهدی بهرامی" title="گاه‌نوشت مهدی بهرامی" type="rss" xmlUrl="http://feeds.feedburner.com/mehdibahrami/qcUg" htmlUrl="http://mehdibahrami.me/blog"/>
       <outline text="گاه‌نوشت‌های یک برنامه نویس" title="گاه‌نوشت‌های یک برنامه نویس" type="rss" xmlUrl="http://rastikerdar.blog.ir/rss/" htmlUrl="http://rastikerdar.blog.ir/"/>
+      <outline text="گروه توسعه نرم‌افزار آیلِت" title="گروه توسعه نرم‌افزار آیلِت" type="rss" xmlUrl="http://www.islet.ir/feed/" htmlUrl="http://www.islet.ir/"/>
       <outline text="گروه غیر متعهد ها" title="گروه غیر متعهد ها" type="rss" xmlUrl="http://namgroup.blogfa.com/Rss.ASPX" htmlUrl="http://namgroup.blogfa.com/Rss.ASPX"/>
       <outline text="گروه فنی و مهندسی ایرسا" title="گروه فنی و مهندسی ایرسا" type="rss" xmlUrl="http://irsateam.com/RSS" htmlUrl="http://irsateam.com/"/>
       <outline text="گروه كاربران لینوكس مشهد" title="گروه كاربران لینوكس مشهد" type="rss" xmlUrl="http://mashhadlug.org/fa/rss.xml" htmlUrl="http://www.mashhadlug.org/"/>
@@ -1361,6 +1369,7 @@
       <outline text="گزاره‌ها" title="گزاره‌ها" type="rss" xmlUrl="http://feeds.feedburner.com/gozareha" htmlUrl="http://gozareha.com/"/>
       <outline text="گزیر" title="گزیر" type="rss" xmlUrl="http://feeds2.feedburner.com/gozir" htmlUrl="http://www.gozir.com/"/>
       <outline text="گشت و گذاری در DirectX" title="گشت و گذاری در DirectX" type="rss" xmlUrl="http://mdirectx11.blogfa.com/rss" htmlUrl="http://mdirectx11.blogfa.com/"/>
+      <outline text="گشتاسب مظفریان – GMozafarian" title="گشتاسب مظفریان – GMozafarian" type="rss" xmlUrl="http://gmozafarian.ir/feed" htmlUrl="http://gmozafarian.ir/"/>
       <outline text="گنجه" title="گنجه" type="rss" xmlUrl="http://blog.ebrahim.ir/feed/" htmlUrl="http://blog.ebrahim.ir/"/>
       <outline text="گنو دانلود" title="گنو دانلود" type="rss" xmlUrl="http://news.gnudownload.org/component/option,com_rss/feed,RSS2.0/no_html,1/" htmlUrl="http://news.gnudownload.org/component/option,com_rss/feed,RSS2.0/no_html,1/"/>
       <outline text="گنو شاپ" title="گنو شاپ" type="rss" xmlUrl="http://feeds.feedburner.com/gnushop" htmlUrl="http://gshop.freeblog.ir"/>
@@ -1382,8 +1391,8 @@
       <outline text="یادداشت‌ها" title="یادداشت‌ها" type="rss" xmlUrl="http://feeds.feedburner.com/sinairv" htmlUrl="http://sinairv.blogspot.com/"/>
       <outline text="یادداشت‌های میلاد" title="یادداشت‌های میلاد" type="rss" xmlUrl="http://themiladnotes.wordpress.com/feed/" htmlUrl="http://themiladnotes.wordpress.com/"/>
       <outline text="یادگیری الکترونیکی" title="یادگیری الکترونیکی" type="rss" xmlUrl="http://irel.blogfa.com/rss.aspx" htmlUrl="http://irel.blogfa.com/"/>
-      <outline text="یادگیری الکترونیکی  در قرن 21" title="یادگیری الکترونیکی  در قرن 21" type="rss" xmlUrl="http://www.e-yadgiri.ir/rss.aspx" htmlUrl="http://www.e-yadgiri.ir/rss.aspx"/>
       <outline text="یادگیری الکترونیکی  در قرن 21" title="یادگیری الکترونیکی  در قرن 21" type="rss" xmlUrl="http://e-yadgiri.blogfa.com/rss.aspx" htmlUrl="http://e-yadgiri.blogfa.com/"/>
+      <outline text="یادگیری الکترونیکی  در قرن 21" title="یادگیری الکترونیکی  در قرن 21" type="rss" xmlUrl="http://www.e-yadgiri.ir/rss.aspx" htmlUrl="http://www.e-yadgiri.ir/rss.aspx"/>
       <outline text="یادگیری الکترونیکی ( ICT &amp; Learning )" title="یادگیری الکترونیکی ( ICT &amp; Learning )" type="rss" xmlUrl="http://learning-ict.blogfa.com/rss.aspx" htmlUrl="http://learning-ict.blogfa.com/"/>
       <outline text="یادگیری الکترونیکی يادگيري الکترونيکي" title="یادگیری الکترونیکی يادگيري الکترونيکي" type="rss" xmlUrl="http://tarvijiran.persianblog.ir/rss.xml" htmlUrl="http://tarvijiran.persianblog.ir/"/>
       <outline text="یادگیری الکترونیکی ۲.۰" title="یادگیری الکترونیکی ۲.۰" type="rss" xmlUrl="http://www.elb.ir/feed" htmlUrl="http://www.elb.ir/"/>
